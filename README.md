@@ -30,6 +30,6 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ### Trello Board:
 
-####[Trello Link](https://trello.com/b/v5aGv47r/online-art-gallery)
+#### [Trello Link](https://trello.com/b/v5aGv47r/online-art-gallery)
 
 ![pic1](./docs/Trello%201.png)
