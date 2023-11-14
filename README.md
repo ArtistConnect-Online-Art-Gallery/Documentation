@@ -1,8 +1,8 @@
 # Online Art Gallery Documentation 
 
-Our idea is for an Online art gallery where artists and art enthusiasts can gather to show off their work, gain some attention towards it, and share their opinions with other like minded people. This web application will attempt to help talented artists, no matter their circumstances, to get some publicity for their hard work. I believe this type of website will also have a number of transferable skills for common web development projects e.g. blogs, portfolio sites, etc.   
+Our idea is for an Online art gallery where artists and art enthusiasts can gather to show off their work, gain some attention towards it, and share their opinions with other like-minded people. This web application will attempt to help talented artists, no matter their circumstances, to get some publicity for their hard work. I believe this type of website will also have a number of transferable skills for common web development projects e.g. blogs, portfolio sites, etc.   
 
-This App will be used by: 
+## This App will be used by: 
 
 ### Artists: 
 * Can upload their artworks to be displayed  
