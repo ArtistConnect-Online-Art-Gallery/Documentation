@@ -36,6 +36,16 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 #### [Trello Link](https://trello.com/b/v5aGv47r/online-art-gallery)
 
-![pic1](./docs/Trello%201.png)  
+![pic1](./docs/Trello%201.png)    
 
-## Tech Stack: 
+## User Stories: 
+
+## Dataflow Diagram:  
+
+## Application Architecture Diagram 
+
+## Tech Stack:  
+
+### Front End: 
+
+### Back End:
