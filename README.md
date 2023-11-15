@@ -26,10 +26,10 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 - Can delete Artist accounts not suitable for the website
 - Can delete comments not suitable for the website
 
----
-
-### Trello Board:
+## Trello Board:
 
 #### [Trello Link](https://trello.com/b/v5aGv47r/online-art-gallery)
 
-![pic1](./docs/Trello%201.png)
+![pic1](./docs/Trello%201.png)  
+
+## Tech Stack: 
