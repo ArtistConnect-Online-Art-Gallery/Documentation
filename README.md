@@ -93,7 +93,7 @@ Nicola wants to:
 - Access to analytics tools on the platform, offering insights into the performance of the digital artworks, including views, likes, and comments.
 - Discover local art events and cultural activities, gallery openings, and cultural activities to enhance her engagement with the arts scene.
 
-### Unintentional Visitor:
+### Unintentional Visitor
 
 **Emily**
 
