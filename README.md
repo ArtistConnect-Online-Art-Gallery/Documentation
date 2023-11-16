@@ -61,6 +61,10 @@ We decided on the MERN tech stack for this project, choosing MongoDB for the dat
 
 #### Front End:
 
+- HTML:
+- CSS:
+- JavaScript:
+- APIs:
 - React-router-dom:
 - React-bootstrap:
 
