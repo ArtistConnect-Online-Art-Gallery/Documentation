@@ -40,15 +40,11 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 - Can delete Artist accounts not suitable for the website
 - Can delete comments not suitable for the website
 
-## Trello Board:
-
-#### [Trello Link](https://trello.com/b/v5aGv47r/online-art-gallery)
-
-![pic1](./docs/Trello%201.png)
-
 ## User Stories:
 
-## Dataflow Diagram:
+#### Unintentional Visitor:
+
+I casually stumbled upon this website and was drawn in by the beautiful artworks showcased on the site. Despite my lack of knowledge in art, I found myself intrigued. By randomly clicking on some images that caught my eye, I explored descriptions and the creative intent behind these artworks. It sparked a curiosity and a newfound interest in this field for me. I decided to create an account to be able to comment on the artworks and interact with the artists.
 
 ## Application Architecture Diagram
 
@@ -57,3 +53,9 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 ### Front End:
 
 ### Back End:
+
+## Trello Board:
+
+#### [Trello Link](https://trello.com/b/v5aGv47r/online-art-gallery)
+
+![pic1](./docs/Trello%201.png)
