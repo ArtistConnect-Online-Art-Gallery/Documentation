@@ -50,9 +50,26 @@ I casually stumbled upon this website and was drawn in by the beautiful artworks
 
 ## Tech Stack:
 
-### Front End:
+We decided on the MERN tech stack for this project, choosing MongoDB for the database, ExpressJS and NodeJS were selected for the back-end server and the front-end web client is handled by React. The use of MERN stack allows for flexible, non-repetitive and scalable full-stack design.
 
-### Back End:
+### Libraries:
+
+- JWT:
+- Bcrypt:
+- Dotenv:
+- Cors:
+
+#### Front End:
+
+- React-router-dom:
+- React-bootstrap:
+
+#### Back End:
+
+- Express:
+- Mongoose:
+
+---
 
 ## Trello Board:
 
