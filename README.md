@@ -44,7 +44,7 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ## User Persona:
 
-###Experienced Artist
+### Experienced Artist
 
 **Blair**
 
@@ -69,7 +69,7 @@ Blair wants to:
 - Receive notifications when someone leaves feedback on his artwork, that way his can engage with his audience.
 - Mentor emerging artists and share experiences, allowing to connect with and provide guidance to emerging artists, fostering a supportive environment within the Australian art community.
 
-###Emerging Artist
+### Emerging Artist
 
 **Nicola**
 
@@ -93,7 +93,7 @@ Nicola wants to:
 - Access to analytics tools on the platform, offering insights into the performance of the digital artworks, including views, likes, and comments.
 - Discover local art events and cultural activities, gallery openings, and cultural activities to enhance her engagement with the arts scene.
 
-###Unintentional Visitor:
+### Unintentional Visitor:
 
 **Emily**
 
