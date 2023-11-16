@@ -42,9 +42,30 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ## User Stories:
 
-#### Unintentional Visitor:
+**Unintentional Visitor Persona:**
 
-I casually stumbled upon this website and was drawn in by the beautiful artworks showcased on the site. Despite my lack of knowledge in art, I found myself intrigued. By randomly clicking on some images that caught my eye, I explored descriptions and the creative intent behind these artworks. It sparked a curiosity and a newfound interest in this field for me. I decided to create an account to be able to comment on the artworks and interact with the artists.
+**Name: Emily**
+
+**Bio**:
+Emily, a 30-year-old visitor, stumbled upon an art gallery website by chance. Coming from a small town in the Australia, she works as a high school teacher and has never delved into the art world beyond admiring her students' creations. Despite her lack of artistic knowledge, Emily has always been fascinated by the various forms of expression and seeks to explore this newfound interest.
+
+**Goals**:
+
+- **Learning**: She hopes to understand art better, looking for a platform that helps explain and appreciate artworks.
+- **Engagement**: Emily wishes to engage with the art community, connect with artists, and learn from their experiences to broaden her perspective.
+
+**Challenges:**
+
+- **Limited Art Knowledge:** Emily lacks formal education or exposure to art, which makes navigating the art world intimidating and overwhelming.
+- **Understanding Art Terminology:** She finds it challenging to grasp the technical language used in art descriptions.
+- **Identifying Personal Preferences:** Emily struggles to identify her preferences in art styles, mediums, or genres due to her limited exposure.
+
+**User Stories:**
+
+Emily wants to:
+
+- Explore beginner-friendly exhibitions that introduce different art styles, providing explanations in simple terms.
+- Engage in interactive features or forums where she can ask questions and receive explanations from artists or knowledgeable individuals in a welcoming environment.
 
 ## Application Architecture Diagram
 
