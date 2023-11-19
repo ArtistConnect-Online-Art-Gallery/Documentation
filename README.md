@@ -48,8 +48,6 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 
 ### Emerging Artist
-#### Nicola  
-
 ![]()
 
 ### Unintentional Visitor
