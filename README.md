@@ -56,7 +56,19 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ![]()
 
+---
+
+## Dataflow Diagram:
+
+![DFD](./docs/Diagrams/DFD.png)
+
+---
+
 ## Application Architecture Diagram
+
+![Architecture](./docs/Diagrams/%20ArchitectureDiagram.png)
+
+---
 
 ## Tech Stack:
 
