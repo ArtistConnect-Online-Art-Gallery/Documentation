@@ -44,38 +44,24 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 ## User Persona:
 
 ### Experienced Artist
-![]()
-
+![](./docs/Personas/ExpriencedArtist.png)
 
 ### Emerging Artist
-![]()
+![](./docs/Personas/EmergingArtist.png)
+
+### Art Critic
+![](./docs/Personas/ArtCritic.png)
+
+### Art Enthusiast
+![](./docs/Personas/ArtEnthusiast.png)
 
 ### Unintentional Visitor
+![](./docs/Personas/UnintentionalVisitor.png)
 
-**Emily**
-
-**Bio**:
-Emily, a 30-year-old visitor, stumbled upon an art gallery website by chance. Coming from a small town in the Australia, she works as a high school teacher and has never delved into the art world beyond admiring her students' creations. Despite her lack of artistic knowledge, Emily has always been fascinated by the various forms of expression and seeks to explore this newfound interest.
-
-**Goals**:
-
-- **Learning**: She hopes to understand art better, looking for a platform that helps explain and appreciate artworks.
-- **Engagement**: Emily wishes to engage with the art community, connect with artists, and learn from their experiences to broaden her perspective.
-
-**Challenges:**
-
-- **Limited Art Knowledge:** Emily lacks formal education or exposure to art, which makes navigating the art world intimidating and overwhelming.
-- **Understanding Art Terminology:** She finds it challenging to grasp the technical language used in art descriptions.
-- **Identifying Personal Preferences:** Emily struggles to identify her preferences in art styles, mediums, or genres due to her limited exposure.
-
-**User Stories:**
-
-Emily wants to:
-
-- Explore beginner-friendly exhibitions that introduce different art styles, providing explanations in simple terms.
-- Engage in interactive features or forums where she can ask questions and receive explanations from artists or knowledgeable individuals in a welcoming environment.
 
 ## Application Architecture Diagram
+
+![](./%20ArchitectureDiagram.png)
 
 ## Tech Stack:
 
