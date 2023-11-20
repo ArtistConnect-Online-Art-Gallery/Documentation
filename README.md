@@ -49,6 +49,7 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 * Sign up
   * Create username
   * Create password
+  * Optional: add profile picture
 * Sign in
   * Requires username
   * Requires password
@@ -75,6 +76,7 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
   * Report button 
 
 ### Profile page   
+* Profile picture
 * Username
 * User bio/description
 * User artworks
