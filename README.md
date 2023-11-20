@@ -111,7 +111,7 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ## Application Architecture Diagram
 
-![pic1](./%20ArchitectureDiagram.png)
+![pic1](./docs/Diagrams/%20ArchitectureDiagram.png)
 
 ## Tech Stack:
 
