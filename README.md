@@ -40,7 +40,42 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 - Can delete Artist accounts not suitable for the website
 - Can delete comments not suitable for the website
 
----
+--- 
+
+## Components:    
+
+### Onboarding:  
+* Stylised animation upon opening?
+* Sign up
+* Sign in
+* language
+
+### Home page: 
+* Logo
+* Search Bar for artists and artwork titles
+* Dropdown selection to refine genre/medium
+
+
+### Explore 
+* Dropdown selection to refine genre/medium
+* Refined/recommended/random artworks
+  * Artist
+    * Genre/medium
+  * Comments
+    * Button to leave a comment
+  * Report button 
+
+### Profile page   
+* Username
+* User bio/description
+* User artworks
+   * Comments on artworks
+   * Artwork activity
+
+
+
+
+
 
 ## User Persona:
 
