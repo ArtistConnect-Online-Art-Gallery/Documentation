@@ -44,24 +44,24 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 ## User Persona:
 
 ### Experienced Artist
-![](./docs/Personas/ExpriencedArtist.png)
+![pic1](./docs/Personas/ExpriencedArtist.png)
 
 ### Emerging Artist
-![](./docs/Personas/EmergingArtist.png)
+![pic1](./docs/Personas/EmergingArtist.png)
 
 ### Art Critic
-![](./docs/Personas/ArtCritic.png)
+![pic1](./docs/Personas/ArtCritic.png)
 
 ### Art Enthusiast
-![](./docs/Personas/ArtEnthusiast.png)
+![pic1](./docs/Personas/ArtEnthusiast.png)
 
 ### Unintentional Visitor
-![](./docs/Personas/UnintentionalVisitor.png)
+![pic1](./docs/Personas/UnintentionalVisitor.png)
 
 
 ## Application Architecture Diagram
 
-![](./%20ArchitectureDiagram.png)
+![pic1](./%20ArchitectureDiagram.png)
 
 ## Tech Stack:
 
