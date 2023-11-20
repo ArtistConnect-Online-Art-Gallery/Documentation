@@ -47,18 +47,24 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 ### Onboarding:  
 * Stylised animation upon opening?
 * Sign up
+  * Create username
+  * Create password
 * Sign in
-* language
+  * Requires username
+  * Requires password
+* Select language
 
 ### Home page: 
 * Logo
 * Search Bar for artists and artwork titles
 * Dropdown selection to refine genre/medium
+* Selection of recommended artworks
+  * frequently viewed genres/mediums/artists 
 
 
 ### Explore 
 * Dropdown selection to refine genre/medium
-* Refined/recommended/random artworks
+* Random artworks ^^
   * Artist
     * Genre/medium
   * Comments
@@ -71,6 +77,9 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 * User artworks
    * Comments on artworks
    * Artwork activity
+* Settings
+   * Update account
+   * Delete account 
 
 
 
