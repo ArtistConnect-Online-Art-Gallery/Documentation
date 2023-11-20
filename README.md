@@ -54,12 +54,15 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
   * Requires password
 * Select language
 
-### Home page: 
-* Logo
-* Search Bar for artists and artwork titles
+### Home page:  
+* Header
+  * Logo
+  * Search Bar for artists and artwork titles
 * Dropdown selection to refine genre/medium
 * Selection of recommended artworks
-  * frequently viewed genres/mediums/artists 
+  * frequently viewed genres/mediums/artists
+* Footer
+  * Mock links to socials
 
 
 ### Explore 
