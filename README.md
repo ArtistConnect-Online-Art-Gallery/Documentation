@@ -89,6 +89,7 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 - User artworks
   - Comments on artworks
   - Artwork activity
+  - Gallery
 - Settings
   - Update account
   - Delete account
