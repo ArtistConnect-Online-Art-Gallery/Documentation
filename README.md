@@ -150,10 +150,6 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ![profilepage](./docs/wireframes/Profile%20Page.png)
 
-### Admin Page:
-
-![adminpage](./docs/wireframes/Admin%20management%20page.png)
-
 ### Gallery Page:
 
 ![gallerypage](./docs/wireframes/Gallery%20Page.png)
