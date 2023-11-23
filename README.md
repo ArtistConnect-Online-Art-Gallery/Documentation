@@ -140,7 +140,7 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ### Login Page:
 
-![loginpage](./docs/wireframes/Login%20Page.png)
+![loginpage](./docs/wireframes/Login%20page.png)
 
 ### Admin Page:
 
