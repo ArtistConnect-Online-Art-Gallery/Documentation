@@ -4,9 +4,13 @@
 
 The problem we are aiming to solve with this website is the difficulty for new and experienced artists to gather attention towards their artworks and meet people with a similar or compatible taste in art.
 
+---
+
 ## The solution/purpose:
 
 Our idea is for an Online art gallery where artists and art enthusiasts can gather to show off their work, gain some attention towards it, and share their opinions with other like-minded people. This web application will attempt to help talented artists, no matter their circumstances, to get some publicity for their hard work. The site will also serve as a supportive place for new artists to show off their artistic projects and learn, gather inspiration from, and connect with others working in similar mediums. We believe this type of website will also have a number of transferable skills for common web development projects e.g. blogs, portfolio sites, etc.
+
+---
 
 ## Functionality/features:
 
@@ -40,78 +44,119 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 - Can delete Artist accounts not suitable for the website
 - Can delete comments not suitable for the website
 
---- 
+---
 
-## Components:    
+## Components:
 
-### Onboarding:  
-* Stylised animation upon opening?
-* Sign up
-  * Create username
-  * Create password
-  * Optional: add profile picture
-* Sign in
-  * Requires username
-  * Requires password
-* Select language
+### Onboarding:
 
-### Home page:  
-* Header
-  * Logo
-  * Search Bar for artists and artwork titles
-* Dropdown selection to refine genre/medium
-* Selection of recommended artworks
-  * frequently viewed genres/mediums/artists
-* Footer
-  * Mock links to socials
+- Stylised animation upon opening?
+- Sign up
+  - Create username
+  - Create password
+  - Optional: add profile picture
+- Sign in
+  - Requires username
+  - Requires password
+- Select language
 
+### Home page:
 
-### Explore 
-* Dropdown selection to refine genre/medium
-* Random artworks ^^
-  * Artist
-    * Genre/medium
-  * Comments
-    * Button to leave a comment
-  * Report button 
+- Header
+  - Logo
+  - Search Bar for artists and artwork titles
+- Dropdown selection to refine genre/medium
+- Selection of recommended artworks
+  - frequently viewed genres/mediums/artists
+- Footer
+  - Mock links to socials
 
-### Profile page   
-* Profile picture
-* Username
-* User bio/description
-* User artworks
-   * Comments on artworks
-   * Artwork activity
-* Settings
-   * Update account
-   * Delete account 
+### Explore
 
+- Dropdown selection to refine genre/medium
+- Random artworks ^^
+  - Artist
+    - Genre/medium
+  - Comments
+    - Button to leave a comment
+  - Report button
 
+### Profile page
 
+- Profile picture
+- Username
+- User bio/description
+- User artworks
+  - Comments on artworks
+  - Artwork activity
+  - Gallery
+- Settings
+  - Update account
+  - Delete account
 
-
+---
 
 ## User Persona:
 
 ### Experienced Artist
+
 ![pic1](./docs/Personas/ExpriencedArtist.png)
 
 ### Emerging Artist
+
 ![pic1](./docs/Personas/EmergingArtist.png)
 
 ### Art Critic
+
 ![pic1](./docs/Personas/ArtCritic.png)
 
 ### Art Enthusiast
+
 ![pic1](./docs/Personas/ArtEnthusiast.png)
 
 ### Unintentional Visitor
-![pic1](./docs/Personas/UnintentionalVisitor.png)
 
+## ![pic1](./docs/Personas/UnintentionalVisitor.png)
 
-## Application Architecture Diagram
+---
+
+## Dataflow Diagram:
+
+## ![dataflow](./docs/Diagrams/DFD.png)
+
+---
+
+## Application Architecture Diagram:
 
 ![pic1](./docs/Diagrams/%20ArchitectureDiagram.png)
+
+---
+
+## Wireframes:
+
+### Home Page:
+
+![homepage](./docs/wireframes/Home%20Page%20New.png)
+
+### Login Page:
+
+![loginpage](./docs/wireframes/Login%20page.png)
+
+### Admin Page:
+
+![adminpage](./docs/wireframes/Admin%20management%20page.png)
+
+### Profile Page:
+
+![profilepage](./docs/wireframes/Profile%20Page.png)
+
+### Gallery Page:
+
+![gallerypage](./docs/wireframes/Gallery%20Page.png)
+
+### Comment Page:
+
+![commentpage](./docs/wireframes/Comments%20page.png)
 
 ## Tech Stack:
 
