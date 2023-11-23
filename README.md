@@ -142,13 +142,17 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ![loginpage](./docs/wireframes/Login%20page.png)
 
-### Admin Page:
+### Create profile Page:
 
-![adminpage](./docs/wireframes/Admin%20management%20page.png)
+![createprofilepage](./docs/wireframes/Create%20Profile.png)
 
 ### Profile Page:
 
 ![profilepage](./docs/wireframes/Profile%20Page.png)
+
+### Admin Page:
+
+![adminpage](./docs/wireframes/Admin%20management%20page.png)
 
 ### Gallery Page:
 
