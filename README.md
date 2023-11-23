@@ -134,7 +134,29 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ## Wireframes:
 
-### Artists Profile Page:
+### Home Page:
+
+![homepage](./docs/wireframes/Home%20Page%20New.png)
+
+### Login Page:
+
+![loginpage](./docs/wireframes/Login%20Page.png)
+
+### Admin Page:
+
+![adminpage](./docs/wireframes/Admin%20management%20page.png)
+
+### Profile Page:
+
+![profilepage](./docs/wireframes/Profile%20Page.png)
+
+### Gallery Page:
+
+![gallerypage](./docs/wireframes/Gallery%20Page.png)
+
+### Comment Page:
+
+![commentpage](./docs/wireframes/Comments%20page.png)
 
 ## Tech Stack:
 
