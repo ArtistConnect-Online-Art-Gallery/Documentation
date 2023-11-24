@@ -156,7 +156,7 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ### Artwork Page:
 
-![artworkpage](./docs/wireframes/Artwork%20Page.png)
+![artworkpage](./docs/wireframes//Artwork%20page.png)
 
 ### Admin Page:
 
