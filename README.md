@@ -148,6 +148,14 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ![profilepage](./docs/wireframes/Profile%20Page.png)
 
+### Upload Artwork Page:
+
+![uploadartworkpage](./docs/wireframes/Upload%20Artwork%20Page%20.png)
+
+### Artwork Uploaded Page:
+
+![uploadedartworkpage](./docs/wireframes/Artwork%20Uploaded%20Page.png)
+
 ### Gallery Page:
 
 ![gallerypage](./docs/wireframes/Gallery%20Page.png)
