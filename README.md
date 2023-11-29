@@ -152,6 +152,10 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ![profilepage](./docs/wireframes/Profile%20Page.png)
 
+### Explore Page:
+
+![explorepage](./docs/wireframes/Explore%20Page.png)
+
 ### Setting Page:
 
 ![settingpage](./docs/wireframes/Setting%20Page.png)
