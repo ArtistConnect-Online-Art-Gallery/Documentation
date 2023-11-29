@@ -136,7 +136,8 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ### Home Page:
 
-![homepage](./docs/wireframes/Home%20Page%20New.png)
+![homepage](./docs/wireframes/Home%20page%20desktop.png)
+![homepage](./docs/wireframes/Home%20page%20mobile.png)
 
 ### Login Page:
 
