@@ -94,6 +94,25 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
   - Update account
   - Delete account
 
+### Components List: 
+1. Logo - clickable 
+2. Navbar with “explore” button 
+3. Button Login
+4. Login Form
+5. Registration Form to create the account 
+6. Carrousel Artworks for home page.
+7. Footer with links to social media
+8. Upload photo Profile 
+9. Setting Account Form
+10. Upload Artwork  Button 
+11. Upload Artwork Form 
+12. Card Artwork uploaded with heart and comments button 
+13. Gallery with cards of the artworks 
+14. My Artworks button 
+15. Favourite Artworks button 
+16. Comments component (edit/delete/report  button)
+17. Search Bar with dropdown selection of genre/medium
+
 ---
 
 ## User Persona:
@@ -169,6 +188,10 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 ### Admin Page:
 
 ![adminpage](./docs/wireframes/Admin%20management%20page.png)
+
+### Logo :
+
+![logo](./docs/logo/1.png)
 
 ## Tech Stack:
 
