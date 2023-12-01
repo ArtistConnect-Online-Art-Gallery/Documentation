@@ -234,4 +234,8 @@ We decided on the MERN tech stack for this project, choosing MongoDB for the dat
 
 #### [Trello Link](https://trello.com/b/v5aGv47r/online-art-gallery)
 
-![pic1](./docs/Trello%201.png)
+![pic1](./docs/trello/Trello%201.png)
+![pic1](./docs/trello/inProgress2.png)
+
+![pic1](./docs/trello/inProgress3%20.png)
+
