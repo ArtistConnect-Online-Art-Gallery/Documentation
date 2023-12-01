@@ -155,11 +155,13 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ### Home Page:
 
-![homepage](./docs/wireframes/Home%20Page%20New.png)
+![homepage](./docs/wireframes/Home%20page%20desktop.png)
+![homepage](./docs/wireframes/Home%20page%20mobile.png)
 
 ### Login Page:
 
-![loginpage](./docs/wireframes/Login%20page.png)
+![loginpage](./docs/wireframes/Login%20page%20desktop.png)
+![loginpage](./docs/wireframes/Login%20page%20mobile.png)
 
 ### Create profile Page:
 
@@ -168,6 +170,14 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 ### Profile Page:
 
 ![profilepage](./docs/wireframes/Profile%20Page.png)
+
+### Explore Page:
+
+![explorepage](./docs/wireframes/Explore%20Page.png)
+
+### Setting Page:
+
+![settingpage](./docs/wireframes/Setting%20Page.png)
 
 ### Upload Artwork Page:
 
@@ -181,9 +191,9 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ![gallerypage](./docs/wireframes/Gallery%20Page.png)
 
-### Artwork Page:
+### Comments Page:
 
-![artworkpage](./docs/wireframes//Artwork%20page.png)
+![artworkpage](./docs/wireframes/Comments%20Page.png)
 
 ### Admin Page:
 
