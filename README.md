@@ -1,4 +1,7 @@
-# Online Art Gallery Documentation
+# Online Art Gallery Documentation 
+#### [GitHub Link](https://github.com/Online-Art-Gallery/Documentation)
+___
+
 
 ## The problem:
 
