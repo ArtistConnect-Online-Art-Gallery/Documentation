@@ -213,24 +213,24 @@ We decided on the MERN tech stack for this project, choosing MongoDB for the dat
 
 ### Libraries:
 
-- JWT:
-- Bcrypt:
-- Dotenv:
-- Cors:
+- JWT
+- Bcrypt
+- Dotenv
+- Cors
 
 #### Front End:
 
-- HTML:
-- CSS:
-- JavaScript:
-- APIs:
-- React-router-dom:
-- React-bootstrap:
+- HTML
+- CSS
+- JavaScript
+- APIs
+- React-router-dom
+- React-bootstrap
 
 #### Back End:
 
-- Express:
-- Mongoose:
+- Express
+- Mongoose
 
 ---
 
