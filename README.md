@@ -199,9 +199,13 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ![adminpage](./docs/wireframes/Admin%20management%20page.png)
 
-### Logo :
+### Logo:
 
-![logo](./docs/logo/1.png)
+![logo](./docs/logo/Logo.png)
+
+### Colour Palette:
+
+![colourPalette](./docs/logo/Colour%20Palette%20.png)
 
 ## Tech Stack:
 
