@@ -55,11 +55,12 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 - Stylised animation upon opening?
 - Sign up
+  - Add email account
   - Create username
   - Create password
   - Optional: add profile picture
 - Sign in
-  - Requires username
+  - Requires email
   - Requires password
 - Select language
 
@@ -67,8 +68,8 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 - Header
   - Logo
-  - Search Bar for artists and artwork titles
-- Dropdown selection to refine genre/medium
+  - Nav link to explore page
+  - Link to create account / Profile picture and username link to profile page
 - Selection of recommended artworks
   - frequently viewed genres/mediums/artists
 - Footer
@@ -157,13 +158,15 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 ## Wireframes:
 
 ### Home Page:
-
-![homepage](./docs/wireframes/Home%20page%20desktop.png)
+#### Desktop
+![homepage](./docs/wireframes/Home%20page%20desktop.png) 
+#### Mobile
 ![homepage](./docs/wireframes/Home%20page%20mobile.png)
 
 ### Login Page:
-
-![loginpage](./docs/wireframes/Login%20page%20desktop.png)
+#### Desktop
+![loginpage](./docs/wireframes/Login%20page%20desktop.png) 
+#### Mobile
 ![loginpage](./docs/wireframes/Login%20page%20mobile.png)
 
 ### Create profile Page:
