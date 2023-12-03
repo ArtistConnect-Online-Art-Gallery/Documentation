@@ -1,4 +1,4 @@
-# Online Art Gallery Documentation 
+# ArtistConnect Online Art Gallery Documentation 
 #### [GitHub Link](https://github.com/Online-Art-Gallery/Documentation)
 ___
 
@@ -232,12 +232,12 @@ We decided on the MERN tech stack for this project, choosing MongoDB for the dat
 - JavaScript
 - APIs
 - React-router-dom
-- React-bootstrap
 
 #### Back End:
 
 - Express
 - Mongoose
+- MongoDB
 
 ---
 
