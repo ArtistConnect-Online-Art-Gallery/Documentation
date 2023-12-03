@@ -172,7 +172,10 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ### Create profile Page:
 
-![createprofilepage](./docs/wireframes/Create%20Profile.png)
+![createprofilepage](./docs/wireframes/Create%20Profile.png) 
+
+![createprofilepagemobile](./docs/wireframes/Create%20Profile%20mobile.png) 
+
 
 ### Profile Page:
 
