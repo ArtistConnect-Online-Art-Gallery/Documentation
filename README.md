@@ -72,6 +72,7 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
   - Link to create account / Profile picture and username link to profile page
 - Selection of recommended artworks
   - frequently viewed genres/mediums/artists
+- Description/purpose of website
 - Footer
   - Mock links to socials
 
