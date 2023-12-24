@@ -204,6 +204,17 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ![colourPalette](./docs/logo/Colour%20Palette%20.png)
 
+## T3A2- PART B 
+
+Netlify URL : https://artist-connect.netlify.app/
+
+Heroku URL: https://artist-connect-app-a5e604cdf8ee.herokuapp.com/
+
+Front-End Repo: https://github.com/ArtistConnect-Online-Art-Gallery/artistConnect
+
+Back-End Repo: https://github.com/ArtistConnect-Online-Art-Gallery/artistConnect-server
+
+
 ## Tech Stack:
 
 We decided on the MERN tech stack for this project, choosing MongoDB for the database, ExpressJS and NodeJS were selected for the back-end server and the front-end web client is handled by React. The use of MERN stack allows for flexible, non-repetitive and scalable full-stack design.
