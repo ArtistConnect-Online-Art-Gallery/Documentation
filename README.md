@@ -1,7 +1,8 @@
-# ArtistConnect Online Art Gallery Documentation 
-#### [GitHub Link](https://github.com/Online-Art-Gallery/Documentation)
-___
+# ArtistConnect Online Art Gallery Documentation
 
+#### [GitHub Link](https://github.com/Online-Art-Gallery/Documentation)
+
+---
 
 ## The problem:
 
@@ -54,11 +55,11 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 - Search bar to find a specific artwork
 - Artworks
-    - Title
-    - Description
-    - Button to leave a comment
-    - Report button
-    - Favourite button
+  - Title
+  - Description
+  - Button to leave a comment
+  - Report button
+  - Favourite button
 
 ### Profile page
 
@@ -73,24 +74,25 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
   - Update account
   - Delete account
 
-### Components List: 
-1. Logo - clickable 
-2. Navbar with “explore” button 
+### Components List:
+
+1. Logo - clickable
+2. Navbar with “explore” button
 3. Button Login
 4. Login Form
-5. Registration Form to create the account 
+5. Registration Form to create the account
 6. Artworks for home page.
 7. Footer with links to social media
-8. Upload photo Profile 
+8. Upload photo Profile
 9. Setting Account Form
-10. Upload Artwork  Button 
-11. Upload Artwork Form 
-12. Card Artwork uploaded with heart and comments button 
-13. Gallery with cards of the artworks 
-14. My Artworks button 
-15. Favourite Artworks button 
-16. Comments component 
-17. Search Bar 
+10. Upload Artwork Button
+11. Upload Artwork Form
+12. Card Artwork uploaded with heart and comments button
+13. Gallery with cards of the artworks
+14. My Artworks button
+15. Favourite Artworks button
+16. Comments component
+17. Search Bar
 
 ---
 
@@ -133,24 +135,34 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 ## Wireframes:
 
 ### Home Page:
+
 #### Desktop
-![homepage](./docs/wireframes/Home%20page%20desktop.png) 
+
+![homepage](./docs/wireframes/Home%20page%20desktop.png)
+
 #### Mobile
+
 ![homepage](./docs/wireframes/Home%20page%20mobile.png)
 
 ### Login Page:
+
 #### Desktop
-![loginpage](./docs/wireframes/Login%20page%20desktop.png) 
+
+![loginpage](./docs/wireframes/Login%20page%20desktop.png)
+
 #### Mobile
+
 ![loginpage](./docs/wireframes/Login%20page%20mobile.png)
 
 ### Create profile Page:
 
 #### Desktop
-![createprofilepage](./docs/wireframes/Create%20Profile.png) 
-#### Mobile
-![createprofilepagemobile](./docs/wireframes/Create%20account%20mobile.png) 
 
+![createprofilepage](./docs/wireframes/Create%20Profile.png)
+
+#### Mobile
+
+![createprofilepagemobile](./docs/wireframes/Create%20account%20mobile.png)
 
 ### Profile Page:
 
@@ -200,26 +212,34 @@ We decided on the MERN tech stack for this project, choosing MongoDB for the dat
 
 ### Back End
 
-* `bcrypt` is used for hashing our user's passwords, this library is commonly used for user authentication.
-* `bcryptjs` this library for password hashing as well, it is used in conjunction with bcrypt.
-* `cloudinary`is a cloud service that provides image management. Useful for handling and storing user's image avatars and artworks files.
-* `cors`is a middleware for Express.js that was used to manage and control access to resources on the server from different domains. It allows or restricts cross-origin HTTP requests, which is essential for security. 
-* `dotenv` Zero-dependency Node.js module that simplifies the process of loading environment variables, managing the configuration settings, API keys, database connection strings, and other sensitive information.
-* `express`is a web application framework for Node.js that helps to simplify the creation of APIs (routes for different HTTP methods) and web servers. 
-* `express-async-handler` handles asynchronous errors in Express.js middleware and route handlers.
+- `bcrypt` is used for hashing our user's passwords, this library is commonly used for user authentication.
+- `bcryptjs` this library for password hashing as well, it is used in conjunction with bcrypt.
+- `cloudinary`is a cloud service that provides image management. Useful for handling and storing user's image avatars and artworks files.
+- `cors`is a middleware for Express.js that was used to manage and control access to resources on the server from different domains. It allows or restricts cross-origin HTTP requests, which is essential for security.
+- `dotenv` Zero-dependency Node.js module that simplifies the process of loading environment variables, managing the configuration settings, API keys, database connection strings, and other sensitive information.
+- `express`is a web application framework for Node.js that helps to simplify the creation of APIs (routes for different HTTP methods) and web servers.
+- `express-async-handler` handles asynchronous errors in Express.js middleware and route handlers.
 
-* `jsonwebtoken` creates and verifies JSON Web Tokens (JWT) used for secure communication between parties.
+- `jsonwebtoken` creates and verifies JSON Web Tokens (JWT) used for secure communication between parties.
 
-* `mongoose` is an Object Data Modeling (ODM) library for MongoDB and Node.js that helps to simplify interactions with MongoDB databases. It was used for the schemas definition and models creation, also CRUD operations middleware and more. 
+- `mongoose` is an Object Data Modeling (ODM) library for MongoDB and Node.js that helps to simplify interactions with MongoDB databases. It was used for the schemas definition and models creation, also CRUD operations middleware and more.
 
-### Front-End 
+### Front-End
 
-* `axios` is the library used to make HTTP requests. 
-* `tailwindcss`  utility-first CSS framework, used to styled  the front end. 
-* `reduxjs Version 2.0.1/toolkit ` is an efficient tool to develop, simplify the process of managing state in React applications.
-*`jest-dom Version 5.17.0/testing-library` matchers for validating the state of the DOM in our tests.
+- `axios` is the library used to make HTTP requests.
+- `tailwindcss` utility-first CSS framework, used to styled the front end.
+- `reduxjs Version 2.0.1/toolkit ` is an efficient tool to develop, simplify the process of managing state in React applications. \*`jest-dom Version 5.17.0/testing-library` matchers for validating the state of the DOM in our tests.
 
-* `user-event Version 13.5.0/testing-library`
+- `user-event Version 13.5.0/testing-library`
+
+---
+
+## Testing:
+
+#### [Testing Link](https://docs.google.com/spreadsheets/d/14HJorieH3TXmQPY4Njjmbb5JRboHpaYuGMla2uZLrD4/edit#gid=0)
+
+In this project, we primarily conducted manual testing to complete it. Before the testing began, we first conducted a detailed analysis of the project's requirements. This included understanding the software's functionality, user interface design, and the expected user experience. Based on this requirements analysis, we developed a comprehensive testing plan. This plan detailed all the functionalities that needed to be tested, as well as the corresponding test scenarios and expected outcomes.
+
 ---
 
 ## Trello Board:
@@ -230,4 +250,3 @@ We decided on the MERN tech stack for this project, choosing MongoDB for the dat
 ![pic1](./docs/trello/inProgress2.png)
 
 ![pic1](./docs/trello/inProgress3%20.png)
-
