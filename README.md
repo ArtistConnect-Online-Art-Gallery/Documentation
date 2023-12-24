@@ -17,7 +17,7 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 
 ## Functionality/features:
 
-### Artists:
+### Artists/users:
 
 - Can create/delete an account
   - can upload their artworks to be displayed
@@ -31,38 +31,13 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 - Can view all comments and report inappropriate comments on their own artworks
 - Can view/create/update/delete comments they made on others artworks
 
-### Art-lovers:
-
-- Can create/delete an account
-- Can view Artwork uploaded by Artists
-  - Sort by name, categories such as art-genre, medium, etc
-- Can create/update/delete comment on pieces of art
-- Can view all comments and report inappropriate comments on pieces of art
-- Can view all comments made by themselves
-
 ### Admins:
 
-- Can view all login users' artworks or comments
-- Can delete artworks not suitable for the website
-- Can delete Artist accounts not suitable for the website
-- Can delete comments not suitable for the website
+- Can view and delete reported artworks through the backend
 
 ---
 
 ## Components:
-
-### Onboarding:
-
-- Stylised animation upon opening?
-- Sign up
-  - Add email account
-  - Create username
-  - Create password
-  - Optional: add profile picture
-- Sign in
-  - Requires email
-  - Requires password
-- Select language
 
 ### Home page:
 
@@ -71,30 +46,29 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
   - Nav link to explore page
   - Link to create account / Profile picture and username link to profile page
 - Selection of recommended artworks
-  - frequently viewed genres/mediums/artists
 - Description/purpose of website
 - Footer
   - Mock links to socials
 
 ### Explore
 
-- Dropdown selection to refine genre/medium
-- Random artworks ^^
-  - Artist
-    - Genre/medium
-  - Comments
+- Search bar to find a specific artwork
+- Artworks
+    - Title
+    - Description
     - Button to leave a comment
-  - Report button
+    - Report button
+    - Favourite button
 
 ### Profile page
 
 - Profile picture
+- Upload artwork button
 - Username
 - User bio/description
-- User artworks
-  - Comments on artworks
-  - Artwork activity
-  - Gallery
+- Gallery
+  - User Artworks
+  - User favourite artworks
 - Settings
   - Update account
   - Delete account
@@ -105,7 +79,7 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 3. Button Login
 4. Login Form
 5. Registration Form to create the account 
-6. Carrousel Artworks for home page.
+6. Artworks for home page.
 7. Footer with links to social media
 8. Upload photo Profile 
 9. Setting Account Form
@@ -115,8 +89,8 @@ Our idea is for an Online art gallery where artists and art enthusiasts can gath
 13. Gallery with cards of the artworks 
 14. My Artworks button 
 15. Favourite Artworks button 
-16. Comments component (edit/delete/report  button)
-17. Search Bar with dropdown selection of genre/medium
+16. Comments component 
+17. Search Bar 
 
 ---
 
